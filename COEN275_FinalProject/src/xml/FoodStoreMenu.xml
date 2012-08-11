@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fs1>
+	<food_items>
+		<name>Milk</name>
+		<description>Fat free, 2%, Whole </description>
+		<id>117</id>
+		<price>2.86</price>
+		<calories>140</calories>
+		<quantity>100</quantity>
+	</food_items>
+	<food_items>
+		<name>Eggs</name>
+		<description>Brown Eggs, White Eggs or Organic Eggs</description>
+		<id>118</id>
+		<price>3.89</price>
+		<calories>80</calories>
+		<quantity>100</quantity>
+	</food_items>
+	<food_items>
+		<name>Bread</name>
+		<description>Whole Wheat, Whole Grain, Potato</description>
+		<id>119</id>
+		<price>1.99</price>
+		<calories>100</calories>
+		<quantity>100</quantity>
+	</food_items>
+	<food_items>
+		<name>Bagel</name>
+		<description>Plain, Cheese, Wheat with Cream Cheese or without Cream Cheese </description>
+		<id>120</id>
+		<price>2.00</price>
+		<calories>90</calories>
+		<quantity>100</quantity>
+	</food_items>
+	<food_items>
+		<name>Chocolates</name>
+		<description>Dark, Milk, With Almonds, With Nuts </description>
+		<id>121</id>
+		<price>3.00</price>
+		<calories>240</calories>
+		<quantity>100</quantity>
+	</food_items>
+	<food_items>
+		<name>Cereals</name>
+		<description> Kellogs, Post Cereals, Coco Puffs </description>
+		<id>122</id>
+		<price>5.00</price>
+		<calories>150</calories>
+		<quantity>100</quantity>
+	</food_items>
+	<food_items>
+		<name>Cheese</name>
+		<description>Cheddar, Peperjack, American </description>
+		<id>123</id>
+		<price>7.00</price>
+		<calories>250</calories>
+		<quantity>100</quantity>
+	</food_items>
+	<food_items>
+		<name>energy bars</name>
+		<description>Luna, Cliff Bar, Builder Bar </description>
+		<id>124</id>
+		<price>3.00</price>
+		<calories>140</calories>
+		<quantity>100</quantity>
+	</food_items>
+	<food_items>
+		<name>Aquafina</name>
+		<description> Water </description>
+		<id>111</id>
+		<price>2.00</price>
+		<calories>0</calories>
+		<quantity>100</quantity>
+	</food_items>
+	<food_items>
+		<name>Naked Juice</name>
+		<description>Orange, Strawberry Banana, Red Machine, Blue Machine </description>
+		<id>106</id>
+		<price>4.00</price>
+		<calories>140</calories>
+		<quantity>100</quantity>
+	</food_items>
+	
+	
+</fs1>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_31" class="java.beans.XMLDecoder"> 
+ <object class="java.util.ArrayList"> 
+  <void method="add"> 
+   <object class="smartVendingMachine.CampusCardUser"> 
+    <void property="calories"> 
+     <int>880</int> 
+    </void> 
+    <void property="caloriesSpent"> 
+     <int>120</int> 
+    </void> 
+    <void property="cardno"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="funds"> 
+     <double>1944.3</double> 
+    </void> 
+    <void property="fundsSpent"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="gender"> 
+     <char>M</char> 
+    </void> 
+    <void property="pin"> 
+     <string>1234</string> 
+    </void> 
+    <void property="userName"> 
+     <string>Dhaval</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.CampusCardUser"> 
+    <void property="calories"> 
+     <int>7000</int> 
+    </void> 
+    <void property="cardno"> 
+     <string>93819702</string> 
+    </void> 
+    <void property="funds"> 
+     <double>2000.0</double> 
+    </void> 
+    <void property="fundsSpent"> 
+     <double>18.48</double> 
+    </void> 
+    <void property="gender"> 
+     <char>M</char> 
+    </void> 
+    <void property="pin"> 
+     <string>hyhh</string> 
+    </void> 
+    <void property="userName"> 
+     <string>Dhaval1</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.CampusCardUser"> 
+    <void property="calories"> 
+     <int>7000</int> 
+    </void> 
+    <void property="cardno"> 
+     <string>83498901</string> 
+    </void> 
+    <void property="funds"> 
+     <double>2000.0</double> 
+    </void> 
+    <void property="gender"> 
+     <char>M</char> 
+    </void> 
+    <void property="pin"> 
+     <string>hyhh</string> 
+    </void> 
+    <void property="userName"> 
+     <string>Dhaval2</string> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

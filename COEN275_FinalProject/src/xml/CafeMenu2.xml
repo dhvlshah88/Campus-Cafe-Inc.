@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c2>
+	<food_items>
+		<name>Mocha</name>
+		<description>Steamed milk with Expresso and Chocolate Mocha Sauce </description>
+		<id>401</id>
+		<price>3.25</price>
+		<calories>300</calories>
+	</food_items>
+	<food_items>
+		<name> Latte </name>
+		<description> Steamed Milk with Expresso Shots</description>
+		<id>402</id>
+		<price>2.75</price>
+		<calories>200</calories>
+	</food_items>
+	<food_items>
+		<name> Caramel Macchiato</name>
+		<id>403</id>
+		<description> Steamed Milk with Vanilla Syrup, Expresso and Caramel Sauce</description>
+		<price>4.25</price>
+		<calories>350</calories>
+	</food_items>
+	<food_items>
+		<name> Americano </name>
+		<id>404</id>
+		<description> Hot Water and Expresso Shots</description>
+		<price>2.00</price>
+		<calories>120</calories>
+	</food_items>
+	<food_items>
+		<name>Muffin</name>
+		<id>405</id>
+		<description> Banana Walnut or Blueberry</description>
+		<price>2.00</price>
+		<calories>300</calories>
+	</food_items>
+	<food_items>
+		<name>Cookies</name>
+		<description> Chocolate Chip, Oatmeal Raisin or White Chocolate Chip</description>
+		<id>406</id>
+		<price>1.49</price>
+		<calories>230</calories>
+	</food_items>
+	<food_items>
+		<name> Turnovers</name>
+		<description> Apple, Strawberry or Blueberry</description>
+		<id>407</id>
+		<price>1.75</price>
+		<calories>200</calories>
+	</food_items>
+	<food_items>
+		<name>Brownies</name>
+		<description> Chocolate Chip, Chocolate, or Chocolate Walnut</description>
+		<id>408</id>
+		<price>1.59</price>
+		<calories>300</calories>
+	</food_items>
+</c2>

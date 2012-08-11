@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vm1>
+	<food_items>
+		<name>Coke</name>
+		<description>Softdrink</description>
+		<id>101</id>
+		<price>1.00</price>
+		<calories>180</calories>
+		<quantity>20</quantity>
+		<image>src/images/coke.png</image>
+	</food_items>
+	<food_items>
+		<name> Crush</name>
+		<description>Softdrink</description>
+		<id>102</id>
+		<price>1.00</price>
+		<calories>180</calories>
+		<quantity>20</quantity>
+		<image>src/images/crush.png</image>
+	</food_items>
+	<food_items>
+		<name> Sprite</name>
+		<description>Softdrink</description>
+		<id>103</id>
+		<price>1.00</price>
+		<calories>180</calories>
+		<quantity>20</quantity>
+		<image>src/images/sprite.png</image>
+	</food_items>
+	<food_items>
+		<name> Dr Pepper</name>
+		<description>Softdrink</description>
+		<id>104</id>
+		<price>1.00</price>
+		<calories>180</calories>
+		<quantity>20</quantity>
+		<image>src/images/drPepper.png</image>
+	</food_items>
+	<food_items>
+		<name> Mountain Dew</name>
+		<description>Softdrink</description>
+		<id>105</id>
+		<price>1.00</price>
+		<calories>180</calories>
+		<quantity>20</quantity>
+		<image>src/images/mountainDew.png</image>
+	</food_items>	
+	<food_items>
+		<name> Naked Juice</name>
+		<description> Orange, Strawberry Banana</description>
+		<id>106</id>
+		<price>2.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/nakedJuice.png</image>
+	</food_items>
+	<food_items>
+		<name> Tropicana</name>
+		<description> Orange, Orange Mango, Mixed Fruit </description>
+		<id>107</id>
+		<price>2.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/tropicana.png</image>
+	</food_items>
+	<food_items>
+		<name> Minute Maid </name>
+		<description> Orange, Mixed Fruit</description>
+		<id>108</id>
+		<price>2.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/minuteMaid.png</image>
+	</food_items>
+	<food_items>
+		<name> Tazo </name>
+		<description> Green Tea, Peach</description>
+		<id>109</id>
+		<price>2.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/tazo.png</image>
+	</food_items>
+	<food_items>
+		<name> Gatorade </name>
+		<description> Lime, Fruit Punch, Power</description>
+		<id>110</id>
+		<price>3.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/gatorade.png</image>
+	</food_items>
+	<food_items>
+		<name> Aquafina </name>
+		<description>Water</description>
+		<id>111</id>
+		<price>2.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/aquafina.png</image>
+	</food_items>
+
+	<food_items>
+		<name> Aquafina </name>
+		<description>Water</description>
+		<id>111</id>
+		<price>2.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/aquafina.png</image>
+	</food_items>
+
+	<food_items>
+		<name> Aquafina </name>
+		<description>Water</description>
+		<id>111</id>
+		<price>2.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/aquafina.png</image>
+	</food_items>
+	<food_items>
+		<name> Aquafina </name>
+		<description>Water</description>
+		<id>111</id>
+		<price>2.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/aquafina.png</image>
+	</food_items>
+	<food_items>
+		<name> Aquafina </name>
+		<description>Water</description>
+		<id>111</id>
+		<price>2.00</price>
+		<calories>120</calories>
+		<quantity>20</quantity>
+		<image>src/images/aquafina.png</image>
+	</food_items>
+	<food_items>
+		<name> Kettle Chips</name>
+		<description>Barbeque, Vinegar-Salt, Jalapeno, Honey Dijon</description>
+		<id>112</id>
+		<price>1.09</price>
+		<calories>220</calories>
+		<quantity>20</quantity>
+		<image>src/images/kettleChips.png</image>
+	</food_items>
+	<food_items>
+		<name> Lays</name>
+		<description> Plain Salted, American Cheese, Indian Traditional</description>
+		<id>113</id>
+		<price>1.09</price>
+		<calories>220</calories>
+		<quantity>20</quantity>
+		<image>src/images/lays.png</image>
+	</food_items>
+	<food_items>
+		<name>Sun Chips</name>
+		<description>Chatpata, Mint Flavor</description>
+		<id>114</id>
+		<price>1.09</price>
+		<calories>220</calories>
+		<quantity>20</quantity>
+		<image>src/images/sunChips.png</image>
+	</food_items>
+	<food_items>
+		<name> Pita Chips</name>
+		<description>Jalapeno, Sea- Salt, Barbeque </description>
+		<id>115</id>
+		<price>1.00</price>
+		<calories>160</calories>
+		<quantity>20</quantity>
+		<image>src/images/pitaChips.png</image>
+	</food_items>
+	<food_items>
+		<name> Doritos </name>
+		<description>Nachos Cheese, Spicy Sweet Chilli, Cool Ranch</description>
+		<id>116</id>
+		<price>1.09</price>
+		<calories>230</calories>
+		<quantity>20</quantity>
+		<image>src/images/doritos.png</image>
+	</food_items>
+</vm1>

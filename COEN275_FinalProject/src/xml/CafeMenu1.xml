@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c1>
+
+	<food_items>
+		<name>Shahi Paneer</name>
+		<description>Paneer in creamy tomato sauce</description>
+		<id>201</id>
+		<price>8.95</price>
+		<calories>650</calories>
+	</food_items>
+
+	<food_items>
+		<name>Dum Aaloo</name>
+		<description>Spicy Potato in Gravy</description>
+		<id>202</id>
+		<price>7.95</price>
+		<calories>400</calories>
+	</food_items>
+
+	<food_items>
+		<name>Poori</name>
+		<description>Fried Indian Flatbreads</description>
+		<id>203</id>
+		<price>8.95</price>
+		<calories>900</calories>
+	</food_items>
+	<food_items>
+		<name>Wada Pav</name>
+		<description>Bread and Potato Sandwich</description>
+		<id>204</id>
+		<price>2.50</price>
+		<calories>250</calories>
+	</food_items>
+	<food_items>
+		<name>Dal Fry</name>
+		<description>Fried Lentil Soup</description>
+		<id>205</id>
+		<price>6.95</price>
+		<calories>950</calories>
+	</food_items>
+
+
+
+	
+	<food_items>
+		<name> Super Nachos </name>
+		<description> Nachos with Cheese, Salsa, Sour Cream, Guacamole and Grilled Chicken </description>
+		<id>206</id>
+		<price>7.69</price>
+		<calories>1000</calories>
+	</food_items>
+
+	<food_items>
+		<name> Burrito</name>
+		<description> Tortilla with Rice, Beans, Choice of Meat and Salsa</description>
+		<id>207</id>
+		<price>6.79</price>
+		<calories>550</calories>
+	</food_items>
+
+	<food_items>
+		<name> Cheese Quesadilla</name>
+		<description> Tortilla with Cheese </description>
+		<id>208</id>
+		<price>5.29</price>
+		<calories>800</calories>
+	</food_items>
+
+	<food_items>
+		<name> Street Tacos </name>
+		<description> Small Tortilla with Grilled Chicken, Onions and Cilantro </description>
+		<id>209</id>
+		<price>7.00</price>
+		<calories>500</calories>
+	</food_items>
+	
+
+	<food_items>
+		<name>Artisan Grilled Cheese</name>
+		<description>Artisan Sourdough with White Cheddar and Eggs</description>
+		<id>210</id>
+		<price>8.95</price>
+		<calories>680</calories>
+	</food_items>
+
+	<food_items>
+		<name>Grilled Lemon Chicken</name>
+		<description>Chicken with Tomato, Spinach, Provolone, Lemon Chive Mayo</description>
+		<id>211</id>
+		<price>11.95</price>
+		<calories>700</calories>
+	</food_items>
+
+	<food_items>
+		<name> Basil Salad</name>
+		<description>Baby Spinach, Toasted Pumpkin Seeds, Apple Saffron Vinaigrette </description>
+		<id>212</id>
+		<price>14.00</price>
+		<calories>300</calories>
+	</food_items>
+
+	<food_items>
+		<name>Grilled Marquette Caesar Salad</name>
+		<description> Lettuce, Toasted Pecans, Cheese,  Apple, Vinaigrette </description>
+		<id>213</id>
+		<price>14.00</price>
+		<calories>300</calories>
+	</food_items>
+
+
+
+	<food_items>
+		<name>Lasagna</name>
+		<description> Homestyle with spinach, mushrooms, cheeses and mixed vegetables</description>
+		<id>214</id>
+		<price>9.79</price>
+		<calories>660</calories>
+	</food_items>
+
+	<food_items>
+		<name>Pasta</name>
+		<description>Regular Pasta with Marinara, Alfredo or Pesto Sauce</description>
+		<id>215</id>
+		<price>9.79</price>
+		<calories>700</calories>
+	</food_items>
+
+	<food_items>
+		<name>Spaghetti Marinara</name>
+		<description> Homestyle with Marinara served with Spaghetti</description>
+		<id>216</id>
+		<price>8.39</price>
+		<calories>750</calories>
+	</food_items>
+
+	
+
+</c1>
+
+
+
+
+
+
+
+

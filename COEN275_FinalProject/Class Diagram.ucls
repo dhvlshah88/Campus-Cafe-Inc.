@@ -1,0 +1,313 @@
+<class-diagram version="1.0.7" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.VendingMachine.LoginHandler" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/VendingMachine.java" 
+    binary="false">    
+    <position height="83" width="191" x="-569" y="1460"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.VendingMachine.PreferencesHandler" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/VendingMachine.java" 
+    binary="false">    
+    <position height="83" width="191" x="-338" y="1460"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.VendingMachine.DPHandler" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/VendingMachine.java" 
+    binary="false">    
+    <position height="83" width="191" x="124" y="1460"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.VendingMachine.EPHandler" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/VendingMachine.java" 
+    binary="false">    
+    <position height="83" width="191" x="-107" y="1460"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.VendingMachine" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/VendingMachine.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="510" y="290"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.VendingMachine.OIHandler" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/VendingMachine.java" 
+    binary="false">    
+    <position height="83" width="191" x="586" y="1460"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.VendingMachine.SIHandler" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/VendingMachine.java" 
+    binary="false">    
+    <position height="83" width="191" x="355" y="1460"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.VendingMachine.MapHandler" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/VendingMachine.java" 
+    binary="false">    
+    <position height="83" width="191" x="817" y="1460"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.BarChart" project="COEN275_FinalProject" 
+    file="/COEN275_FinalProject/src/smartVendingMachine/BarChart.java" binary="false">    
+    <position height="-1" width="-1" x="1103" y="98"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.CampusCardUser" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/CampusCardUser.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1404" y="528"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.DietoryProfile" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/DietoryProfile.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1372" y="950"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.ExpenseProfile" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/ExpenseProfile.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1153" y="972"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.FoodItems" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/FoodItems.java" binary="false">    
+    <position height="-1" width="-1" x="1182" y="1335"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.FoodOutlet" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/FoodOutlet.java" binary="false">    
+    <position height="-1" width="-1" x="-350" y="507"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.Login" project="COEN275_FinalProject" 
+    file="/COEN275_FinalProject/src/smartVendingMachine/Login.java" binary="false">    
+    <position height="-1" width="-1" x="1066" y="697"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.PurchasedDetails" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/PurchasedDetails.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="-371" y="892"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="17" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.SerializeToXML" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/SerializeToXML.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="-411" y="1241"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="smartVendingMachine.UserPreference" 
+    project="COEN275_FinalProject" file="/COEN275_FinalProject/src/smartVendingMachine/UserPreference.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1404" y="40"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="19">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="20" name="cardHolder"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="23" name="cardHolder"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="26" name="foodOrdered"/>      
+      <multiplicity id="27" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="29" name="users"/>      
+      <multiplicity id="30" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <bendpoint x="-58" y="1136"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="32" name="deSerializer"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <bendpoint x="1120" y="285"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="35" name="expenseChart"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <bendpoint x="905" y="204"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="38" name="dietChart"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="40">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <nesting id="41">    
+    <bendpoint x="-95" y="1231"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <association id="42">    
+    <bendpoint x="915" y="416"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="43" name="authenticatedUser"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="45">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <association id="46">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="47" name="userPurchasedDetails"/>      
+      <multiplicity id="48" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="49">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="50">    
+    <bendpoint x="959" y="545"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="51" name="campusCardUsers"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="54" name="foodItemList"/>      
+      <multiplicity id="55" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="57" name="purFoodItem"/>      
+      <multiplicity id="58" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="60" name="selectedOutlet"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="63" name="preferences"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="65">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <nesting id="66">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <nesting id="67">    
+    <bendpoint x="-10" y="1215"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <classifier-display autosize="true" package="true" initial-value="true" signature="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

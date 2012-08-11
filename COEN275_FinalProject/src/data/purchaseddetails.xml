@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_31" class="java.beans.XMLDecoder"> 
+ <object class="java.util.ArrayList"> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>180</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>101</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>1.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/14/2012 12:33:29</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>160</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>115</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>1.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/14/2012 12:33:29</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>1500</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>1</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/14/2012 12:33:29</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>1</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>111</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/14/2012 01:21:10</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>111</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/14/2012 01:21:10</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>111</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/13/2012 01:21:10</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>111</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/13/2012 01:21:10</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>111</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/13/2012 01:21:10</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/13/2012 01:27:41</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>650</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>201</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c2</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/13/2012 06:01:37</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>400</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>202</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>7.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c2</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/13/2012 06:01:37</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>900</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>203</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c2</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 06:01:37</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>900</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>203</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c2</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 06:01:37</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>900</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>203</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c2</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 06:01:37</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 06:45:08</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 06:47:29</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>19</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>111</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/11/2012 01:21:10</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>111</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/11/2012 01:21:10</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>111</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/11/2012 01:21:10</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/11/2012 01:27:41</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>650</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>201</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c2</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/11/2012 06:01:37</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>250</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>204</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.5</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/15/2012 07:13:45</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>1000</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>206</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>7.69</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/15/2012 07:13:45</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>800</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>208</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>5.29</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/15/2012 07:13:45</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/15/2012 11:24:21</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>180</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>105</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>1.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/15/2012 11:24:43</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/15/2012 11:29:36</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>111</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/15/2012 11:31:19</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>180</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>103</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>1.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 11:37:12</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 11:41:20</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 11:43:59</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 11:46:28</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/12/2012 11:57:09</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>1000</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>206</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>7.69</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/16/2012 11:55:54</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>550</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>207</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>6.79</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/16/2012 11:55:54</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>650</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>201</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/16/2012 12:18:15</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>650</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>201</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/16/2012 12:18:15</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>650</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>201</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/16/2012 12:18:15</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>400</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>202</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>7.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/16/2012 12:18:15</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>650</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>201</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/18/2012 09:33:42</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>650</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>201</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>8.95</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>c1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/18/2012 09:33:42</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="smartVendingMachine.PurchasedDetails"> 
+    <void property="cardNo"> 
+     <string>93819701</string> 
+    </void> 
+    <void property="foodItemCalories"> 
+     <int>120</int> 
+    </void> 
+    <void property="foodItemId"> 
+     <int>110</int> 
+    </void> 
+    <void property="foodItemPrice"> 
+     <double>3.0</double> 
+    </void> 
+    <void property="foodOutletId"> 
+     <string>vm1</string> 
+    </void> 
+    <void property="foodPurchasedDateTime"> 
+     <string>03/18/2012 09:34:59</string> 
+    </void> 
+    <void property="foodQuantity"> 
+     <int>20</int> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 
